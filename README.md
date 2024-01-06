@@ -4,3 +4,9 @@ calculadora basica para que los niños y niñas practiquen y aprendan las operac
 es una calculadora para niños y niñas para empezar a practicar la suma, resta, multiplicación y división, ademas aprender la regla de los signos para las operacones que realizen como por ejemplo signos iguales se suman y se coloca el mismo signo, y asi para todas las demas operaciones respetando la regle de los signo es sencilla pero a la vez queria que fuera amena y practica para los pequeños de la casa.
 
 la realize pensando en mi hija que no entendia la regla de los signos ya con esta pequeña herramienta puede comprobar sus resultados.
+
+esta realizada usando los siguientes las siguientes herramienta(no digo lenguajes algunos no consideran html como lenguaje de programacion) de programacion:
+
+-html
+-javascript
+-Bootstrap
